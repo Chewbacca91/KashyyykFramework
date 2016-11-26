@@ -10,7 +10,8 @@ namespace KashyyykFramework.GenericDbAccess
     /// <summary>
     /// Provider d'accès aux données abstrait
     /// Fournit l'interface commune aux classes d'accès aux données
-    /// Est un IDataProvider
+    /// Est un IDataProvider 
+    /// V0 Test GitHub
     /// </summary>
     public abstract class DataProviderBase : IDataProvider
     {
