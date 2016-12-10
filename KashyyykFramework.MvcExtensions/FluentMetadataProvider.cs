@@ -83,7 +83,7 @@ namespace KashyyykFramework.MvcExtensions
                 provider.Add(typeof(TModel), propertyName, metadata => metadata.ConvertEmptyStringToNull = convertEmptyStringToNull);
                 return this;
             }
-
+            
             public MetadataRegistrar<TModel> DataTypeName(string dataTypeName)
             {
                 provider.Add(typeof(TModel), propertyName, metadata => metadata.DataTypeName = dataTypeName);
