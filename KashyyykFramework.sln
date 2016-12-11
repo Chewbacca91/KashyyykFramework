@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KashyyykFramework.GenericDb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KashyyykFramework.MvcExtensions", "KashyyykFramework.MvcExtensions\KashyyykFramework.MvcExtensions.csproj", "{63276695-1E60-41CD-8420-FED1C897D77E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KashyyykFramework.Helpers", "KashyyykFramework.Helpers\KashyyykFramework.Helpers.csproj", "{22932BE5-D95A-48B4-B075-C36DAE06923A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{63276695-1E60-41CD-8420-FED1C897D77E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63276695-1E60-41CD-8420-FED1C897D77E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63276695-1E60-41CD-8420-FED1C897D77E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22932BE5-D95A-48B4-B075-C36DAE06923A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22932BE5-D95A-48B4-B075-C36DAE06923A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22932BE5-D95A-48B4-B075-C36DAE06923A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22932BE5-D95A-48B4-B075-C36DAE06923A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

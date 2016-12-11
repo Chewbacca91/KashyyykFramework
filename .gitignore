@@ -6,3 +6,5 @@
 /.vs/KashyyykFramework/v14
 /KashyyykFramework.MvcExtensions/bin/Debug
 /KashyyykFramework.MvcExtensions/obj/Debug
+/KashyyykFramework.Helpers/bin/Debug
+/KashyyykFramework.Helpers/obj/Debug
