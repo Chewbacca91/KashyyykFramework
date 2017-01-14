@@ -1,0 +1,4 @@
+D:\Dev\KashyyykFramework\KashyyykFramework\KashyyykFramework.Helpers\bin\Release\KashyyykFramework.Helpers.dll
+D:\Dev\KashyyykFramework\KashyyykFramework\KashyyykFramework.Helpers\bin\Release\KashyyykFramework.Helpers.pdb
+D:\Dev\KashyyykFramework\KashyyykFramework\KashyyykFramework.Helpers\obj\Release\KashyyykFramework.Helpers.dll
+D:\Dev\KashyyykFramework\KashyyykFramework\KashyyykFramework.Helpers\obj\Release\KashyyykFramework.Helpers.pdb

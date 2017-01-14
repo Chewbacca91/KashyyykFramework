@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KashyyykFramework.MvcExtens
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KashyyykFramework.Helpers", "KashyyykFramework.Helpers\KashyyykFramework.Helpers.csproj", "{22932BE5-D95A-48B4-B075-C36DAE06923A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KashyyykFramework.Utiliy", "KashyyykFramework.Utiliy\KashyyykFramework.Utiliy.csproj", "{CFA4410A-E601-430E-BAFE-C4EDF263DC02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KashyyykFramework.Mobile", "KashyyykFramework.Mobile\KashyyykFramework.Mobile.csproj", "{8C7B0FE1-409E-4578-A5CB-F61074204632}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{22932BE5-D95A-48B4-B075-C36DAE06923A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22932BE5-D95A-48B4-B075-C36DAE06923A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22932BE5-D95A-48B4-B075-C36DAE06923A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFA4410A-E601-430E-BAFE-C4EDF263DC02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFA4410A-E601-430E-BAFE-C4EDF263DC02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFA4410A-E601-430E-BAFE-C4EDF263DC02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFA4410A-E601-430E-BAFE-C4EDF263DC02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C7B0FE1-409E-4578-A5CB-F61074204632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C7B0FE1-409E-4578-A5CB-F61074204632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C7B0FE1-409E-4578-A5CB-F61074204632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C7B0FE1-409E-4578-A5CB-F61074204632}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

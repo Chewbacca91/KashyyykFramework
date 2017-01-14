@@ -1,0 +1,7 @@
+D:\Dev\KashyyykFramework\KashyyykFramework\KashyyykFramework.Utiliy\bin\Release\KashyyykFramework.Utiliy.dll
+D:\Dev\KashyyykFramework\KashyyykFramework\KashyyykFramework.Utiliy\bin\Release\KashyyykFramework.Utiliy.pdb
+D:\Dev\KashyyykFramework\KashyyykFramework\KashyyykFramework.Utiliy\bin\Release\KashyyykFramework.Helpers.dll
+D:\Dev\KashyyykFramework\KashyyykFramework\KashyyykFramework.Utiliy\bin\Release\KashyyykFramework.Helpers.pdb
+D:\Dev\KashyyykFramework\KashyyykFramework\KashyyykFramework.Utiliy\obj\Release\KashyyykFramework.Utiliy.csprojResolveAssemblyReference.cache
+D:\Dev\KashyyykFramework\KashyyykFramework\KashyyykFramework.Utiliy\obj\Release\KashyyykFramework.Utiliy.dll
+D:\Dev\KashyyykFramework\KashyyykFramework\KashyyykFramework.Utiliy\obj\Release\KashyyykFramework.Utiliy.pdb
