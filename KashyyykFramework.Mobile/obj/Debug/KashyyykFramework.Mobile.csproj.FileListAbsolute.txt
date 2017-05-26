@@ -1,5 +1,5 @@
-D:\Dev\KashyyykFramework\KashyyykFramework\KashyyykFramework.Mobile\obj\Debug\KashyyykFramework.Mobile.csprojResolveAssemblyReference.cache
 D:\Dev\KashyyykFramework\KashyyykFramework\KashyyykFramework.Mobile\bin\Debug\KashyyykFramework.Mobile.dll
 D:\Dev\KashyyykFramework\KashyyykFramework\KashyyykFramework.Mobile\bin\Debug\KashyyykFramework.Mobile.pdb
 D:\Dev\KashyyykFramework\KashyyykFramework\KashyyykFramework.Mobile\obj\Debug\KashyyykFramework.Mobile.dll
 D:\Dev\KashyyykFramework\KashyyykFramework\KashyyykFramework.Mobile\obj\Debug\KashyyykFramework.Mobile.pdb
+D:\Dev\KashyyykFramework\KashyyykFramework\KashyyykFramework.Mobile\obj\Debug\KashyyykFramework.Mobile.csprojResolveAssemblyReference.cache

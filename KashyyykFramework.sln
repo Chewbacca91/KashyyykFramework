@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KashyyykFramework.Utiliy", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KashyyykFramework.Mobile", "KashyyykFramework.Mobile\KashyyykFramework.Mobile.csproj", "{8C7B0FE1-409E-4578-A5CB-F61074204632}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KashyyykFramework.Core", "KashyyykFramework.Core\KashyyykFramework.Core.csproj", "{49F9AB61-45A6-493F-9D3B-485F9FB67449}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{8C7B0FE1-409E-4578-A5CB-F61074204632}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C7B0FE1-409E-4578-A5CB-F61074204632}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C7B0FE1-409E-4578-A5CB-F61074204632}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49F9AB61-45A6-493F-9D3B-485F9FB67449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49F9AB61-45A6-493F-9D3B-485F9FB67449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49F9AB61-45A6-493F-9D3B-485F9FB67449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49F9AB61-45A6-493F-9D3B-485F9FB67449}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
